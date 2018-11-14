@@ -59,7 +59,7 @@ h1, .display, .lead,.my-4, p{
 	color: black;
 }
 
-.video-description-text {
+.description-text {
 	padding-left: 5%;
 	padding-right: 5%;
 }
@@ -81,7 +81,6 @@ h1, .display, .lead,.my-4, p{
   -o-background-size: cover;
   background-attachment: fixed;
   background-size: cover;
-  height: 40vh;
   color: white;
 }
 
